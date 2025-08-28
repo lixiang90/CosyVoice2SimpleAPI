@@ -14,9 +14,9 @@ from pydub import AudioSegment
 DEFAULT_SPEAKERS = {
     "default":(r"asset/zero_shot_prompt.wav","希望你以后能够做的比我还好呦。"),
     "xiaoxiao":(r"asset/xiaoxiao.wav","本文将借助三个环环相扣的宏观历史观，对古希腊罗马史的叙事形成过程进行辨伪分析，并以此为基础，回应“西方伪史论”争议，尝试提供一条超越简单“信”与“疑”的思考路径。"),
-    "dingzhen":(r"asset/dingzhen.wav","这何尝又不是我们的人生呢？我们努力学习就是为了寻找一个局部最优解。"),
-    "xiaohaijie":(r"asset/xiaohaijie.wav","我点的奶茶怎么还没到啊？烦死了，看一下！"),
-    "shantianfang":(r"asset/shantianfang.wav","从打今天开始，我给大家讲一部长篇历史故事————隋唐演义")
+    "dingzhen":(r"asset/dingzhen.MP3","这何尝又不是我们的人生呢？我们努力学习就是为了寻找一个局部最优解。"),
+    "xiaohaijie":(r"asset/xiaohaijie.WAV","我点的奶茶怎么还没到啊？烦死了，看一下！"),
+    "shantianfang":(r"asset/shantianfang.WAV","从打今天开始，我给大家讲一部长篇历史故事————隋唐演义")
 }
 
 class CosyVoiceService:

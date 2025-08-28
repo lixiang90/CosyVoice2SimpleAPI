@@ -46,8 +46,12 @@ compile_commands.json
 *.m4a
 *.aac
 *.pt
+*.mp3
 pretrained_models/*
-generated/*
 *_pb2_grpc.py
 *_pb2.py
 *.tar
+
+# Allow wav files in asset folder
+!asset/*.wav
+!asset/**/*.wav

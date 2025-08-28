@@ -16,7 +16,8 @@ DEFAULT_SPEAKERS = {
     "xiaoxiao":(r"asset/xiaoxiao.wav","本文将借助三个环环相扣的宏观历史观，对古希腊罗马史的叙事形成过程进行辨伪分析，并以此为基础，回应“西方伪史论”争议，尝试提供一条超越简单“信”与“疑”的思考路径。"),
     "dingzhen":(r"asset/dingzhen.MP3","这何尝又不是我们的人生呢？我们努力学习就是为了寻找一个局部最优解。"),
     "xiaohaijie":(r"asset/xiaohaijie.WAV","我点的奶茶怎么还没到啊？烦死了，看一下！"),
-    "shantianfang":(r"asset/shantianfang.WAV","从打今天开始，我给大家讲一部长篇历史故事————隋唐演义")
+    "shantianfang":(r"asset/shantianfang.WAV","从打今天开始，我给大家讲一部长篇历史故事————隋唐演义"),
+    "xiaoai":(r"asset/xiaoai.WAV","以前流行的是不要拿爱好挑战别人的职业，现在流行的是世界是个草台班子。两种说法都是世界不同侧面的真相，但是流行趋势的变化，反映了互联网时代旧权威解体的历史进程。")
 }
 
 class CosyVoiceService:

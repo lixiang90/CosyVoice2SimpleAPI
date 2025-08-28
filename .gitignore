@@ -55,3 +55,5 @@ pretrained_models/*
 # Allow wav files in asset folder
 !asset/*.wav
 !asset/**/*.wav
+!asset/*.mp3
+!asset/**/*.mp3
